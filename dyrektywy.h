@@ -1,0 +1,12 @@
+#define ILOSC 20
+#define JAGODA 'X'
+#define GUARANA '+'
+#define LISEK 'L'
+#define CZLEK '#'
+#define MLECZ 'M'
+#define ZOLWIK 'Z'
+#define WILKU 'W'
+#define TRAWKA 'T'
+#define OWCA 'O'
+#define ANTYLOPA 'A'
+#define CZLOWIEK '#'
